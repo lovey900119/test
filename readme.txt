@@ -1,3 +1,3 @@
-git is a version control systrem
+git is a distributed control systrem
 git is free software
-
+test
